@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "D:/SoftWare/MinGW/include/*",
-                "D:/SoftWare/MinGW/lib/gcc/mingw32/8.2.0/include/*"
+                "D:/SoftWare/MinGW/lib/gcc/mingw32/8.2.0/include/*",
+                "./Add"
 
             ],
             "defines": [

@@ -10,7 +10,8 @@
             "args": [
                 "-g",
                 //"${file}",
-                "${fileDirname}/*.cpp",//TestFun.cpp",
+                "${workspaceFolder}/*.cpp",//TestFun.cpp",
+                "${workspaceFolder}/Add/*.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
